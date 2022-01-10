@@ -95,7 +95,7 @@ class _LoginScreenState extends State<LoginScreen> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           const Text(
-            "Instituto Tecnológico de Chalatenango ITCHA-AGAPE",
+            "Login to your App",
             style: TextStyle(
               color: Colors.black45, 
               fontSize: 28.0,
@@ -103,7 +103,7 @@ class _LoginScreenState extends State<LoginScreen> {
             ),
           ),
           const Text(
-            "SYSO ITCHA",
+            "My App Title",
             style: TextStyle(
               color: Colors.black45, 
               fontSize: 44.0,
